@@ -1,10 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0016BD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erick+Boito;+Seja+bem+Vindo!+:%29)](https://git.io/typing-svg)
-<div aling-"center">
-<img src="Catsky.png" height="400" width="1000">
-</div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6A0DAD&text=Dcauazin's%20Profile&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=print(&quot;Hello,%20World!&quot;)&descAlign=50&descAlignY=51" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100dc4&text=Dcauazin's%20Profile&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=print(&quot;Hello,%20World!&quot;)&descAlign=50&descAlignY=51" /> 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=600&lines=Hello,+Welcome+To+My+Profile!;Student+%7C+Junior+Programmer;Learning+HTML%2C+CSS+e+Java" />
 
