@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🎓 Student, currently enrolled in the Information Technology program at CEDUP Renato Ramos da Silva
-- 💻 Learning web development (HTML, CSS) and programming (Java)
+- 💻 Learning web development (HTML, CSS)
 
 --- 
 
