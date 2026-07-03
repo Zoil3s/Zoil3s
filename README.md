@@ -19,13 +19,4 @@
 
 ---
 
-### 📫 Contato
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-Me_siga-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dcauazinxd/)
-[![Discord](https://img.shields.io/badge/Discord-Me_adicione-6A0DAD?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MwHv55n7)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100dc4&height=100&section=footer" />
