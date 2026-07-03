@@ -15,7 +15,7 @@
 
 --- 
 
-<img src=CatSky.gif height="400" width="1000">
+<img src=CHUVISCO.gif height="400" width="1000">
 
 ---
 
