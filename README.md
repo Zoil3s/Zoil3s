@@ -18,5 +18,6 @@
 <img src=0ee3869dd95cd4ae8c740bddb7148228.gif height="400" width="1000">
 
 ---
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=100dc4&height=100&section=footer" />
+</div>
