@@ -15,10 +15,10 @@
 
 --- 
 
-<img src=CatSky.png height="400" width="1000">
+<img src=CatSky.gif height="400" width="1000">
 
 ---
 
-</div>
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=100dc4&height=100&section=footer" />
+</div>
